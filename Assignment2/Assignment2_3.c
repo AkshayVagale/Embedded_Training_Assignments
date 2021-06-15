@@ -1,3 +1,4 @@
+/* Progam to find the sum of digits of number until the sum is reduced to 1 digit */
 #include<stdio.h>
 
 int sumOfNum(int n);
