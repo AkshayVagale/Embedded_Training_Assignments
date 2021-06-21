@@ -1,3 +1,5 @@
+/* Program to show advantages of inline function over macros */
+
 #include<stdio.h>
 
 #define MAX(x,y) (x > y ? x : y)
