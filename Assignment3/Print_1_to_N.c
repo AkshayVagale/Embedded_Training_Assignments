@@ -1,6 +1,6 @@
 /* Program to Print 1 to N using recursion */
 #include<stdio.h>
-
+ 
 void print1toN(int);
 
 int main()
