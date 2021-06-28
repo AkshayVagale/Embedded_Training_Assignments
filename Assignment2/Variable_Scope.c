@@ -1,3 +1,4 @@
+ //write question here
 #include<stdio.h>
 
 
