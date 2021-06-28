@@ -29,3 +29,4 @@ int sumOfNum(int no)
 	
 	return sum;
 }
+/*Output:*/
