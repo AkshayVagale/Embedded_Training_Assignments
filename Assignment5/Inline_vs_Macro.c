@@ -29,5 +29,5 @@ int main()
 	d = square(1 + 1); // this will give desired result
 	printf("%d\n",d);
 
-	return 0;
+	return 0; 
 }
