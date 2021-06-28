@@ -1,3 +1,5 @@
+
+//write question
 #include<stdio.h>
 
 
