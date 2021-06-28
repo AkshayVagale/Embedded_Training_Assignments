@@ -30,6 +30,6 @@ int main()
 	}
 
 	printf("Second largest no is :%d\n", s_largest);
-
+ 
 	return 0;
 }
