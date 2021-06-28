@@ -15,7 +15,7 @@ int main()
 
 void decimalToBinary(int n)
 {
-	if (n == 0)
+	if (n == 0) 
 		return;
 
 	decimalToBinary(n/2);
