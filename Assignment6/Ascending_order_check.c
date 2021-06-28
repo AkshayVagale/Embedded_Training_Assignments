@@ -26,4 +26,4 @@ int main()
 	printf(" Array is sorted in ascending order");
 
 	return 0;
-}
+} 
